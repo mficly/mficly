@@ -9,7 +9,7 @@ mficly/mficly is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-On my way trying to be a full stack developer, I feel like it's time to accumulate sth for my future.
+On my way trying to be a full stack developer...
 
 Tech stack reached:
 - vue2
@@ -20,3 +20,9 @@ Tech stack reached:
 - golang
 - jenkins configuration
 - dockerfile configuration
+- java + springboot
+
+Interesting library touched:
+- Azure Cognitive service
+- Socket.io
+- Webpack Module Federation/Micro Frontend
