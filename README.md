@@ -9,4 +9,14 @@ mficly/mficly is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-##on my way trying to be a full stack developer, I feel like it's time to accumulate sth for my future.##
+On my way trying to be a full stack developer, I feel like it's time to accumulate sth for my future.
+
+tech stack reached:
+- vue2
+- react 13
+- angular 14
+- node.js
+- kotlin & gradle
+- golang
+- jenkins configuration
+- dockerfile configuration
