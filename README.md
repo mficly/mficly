@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 On my way trying to be a full stack developer, I feel like it's time to accumulate sth for my future.
 
-tech stack reached:
+Tech stack reached:
 - vue2
 - react 13
 - angular 14
