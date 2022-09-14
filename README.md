@@ -23,6 +23,7 @@ Tech stack reached:
 - java + springboot
 
 Interesting library touched:
-- Azure Cognitive service
+- Google Cognitive Service
+- Azure Cognitive Service
 - Socket.io
 - Webpack Module Federation/Micro Frontend
