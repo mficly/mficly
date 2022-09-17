@@ -21,6 +21,7 @@ Tech stack reached:
 - jenkins configuration
 - dockerfile configuration
 - java + springboot
+- go
 
 Interesting library touched:
 - Google Cognitive Service
