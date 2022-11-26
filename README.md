@@ -28,3 +28,5 @@ Interesting library touched:
 - Azure Cognitive Service
 - Socket.io
 - Webpack Module Federation/Micro Frontend
+
+looking for more chanllanges in work and life
