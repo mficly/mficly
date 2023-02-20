@@ -26,6 +26,6 @@ Interesting library touched:
 - Google Cognitive Service
 - Azure Cognitive Service
 - Socket.io
-- Webpack Module Federation/Micro Frontend
+- Webpack Module Federation
 
-looking for more chanllanges in work and life
+looking for more challenges in work and life
