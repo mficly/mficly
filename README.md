@@ -18,9 +18,10 @@ Tech stack reached:
 - node.js
 - kotlin & gradle
 - golang
-- jenkins configuration
+- Jenkins configuration
 - dockerfile configuration
 - java + springboot
+- vue3
 
 Interesting library touched:
 - Google Cognitive Service
