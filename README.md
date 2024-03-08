@@ -28,5 +28,6 @@ Interesting library touched:
 - Azure Cognitive Service
 - Socket.io
 - Webpack Module Federation
+- LangChain & verter database
 
 looking for more challenges in work and life
